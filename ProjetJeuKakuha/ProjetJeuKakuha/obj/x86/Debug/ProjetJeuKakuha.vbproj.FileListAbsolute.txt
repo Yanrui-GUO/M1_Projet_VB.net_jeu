@@ -1,0 +1,9 @@
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\bin\Debug\ProjetJeuKakuha.exe
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\bin\Debug\ProjetJeuKakuha.pdb
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\bin\Debug\ProjetJeuKakuha.xml
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\obj\x86\Debug\ProjetJeuKakuha.kakuha.resources
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\obj\x86\Debug\ProjetJeuKakuha.Resources.resources
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\obj\x86\Debug\ProjetJeuKakuha.vbproj.GenerateResource.Cache
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\obj\x86\Debug\ProjetJeuKakuha.exe
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\obj\x86\Debug\ProjetJeuKakuha.xml
+\\rohan\L\21611929\Desktop\JeuKakuha\ProjetJeuKakuha\ProjetJeuKakuha\obj\x86\Debug\ProjetJeuKakuha.pdb
